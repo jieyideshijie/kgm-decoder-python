@@ -9,7 +9,7 @@
 
 原项目基于 Rust 开发，Windows11 用户存在编译、运行兼容门槛；本版本无需编译，安装 Python 即可全平台（Windows/macOS/Linux）运行，支持批量、解密酷狗 KGM 加密歌曲，自动识别真实音频后缀。
 
-解密底层思路参考孤心浪子博客与 ix64 [unlock-music](https://github.com/ix64/unlock-music) 项目，感谢 ix64 提供解密密钥相关资料。
+
 
 ## 前置准备
 本仓库不提供 `kugou_key.xz` 密钥文件，请自行前往原项目仓库 `assets` 文件夹下载，放到脚本同目录。
