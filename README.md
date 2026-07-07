@@ -1,11 +1,5 @@
 # 酷狗混淆的歌曲文件的解码器
 
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](/LICENSE)
-[![Lang](https://img.shields.io/badge/lang-rust-brightgreen?style=flat-square)](https://www.rust-lang.org)
-![Repo Size](https://img.shields.io/github/repo-size/ghtz08/kuguo-kgm-decoder?style=flat-square)
-![Code Size](https://img.shields.io/github/languages/code-size/ghtz08/kuguo-kgm-decoder?style=flat-square)
-
 介绍
 本项目是 ghtz08/kuguo-kgm-decoder 的 Python 移植版本，特别感谢原作者的开源贡献与算法研究，原项目官方二进制程序可在https://github.com/ghtz08/kuguo-kgm-decoder页面 下载。
 原项目为 Rust 语言开发，部分 Win11 设备存在运行兼容问题、普通用户编译门槛较高，因此本项目基于原项目的解密算法逻辑，使用纯 Python 重写实现，无需编译、开箱即用，支持 Windows /macOS/ Linux 全平台运行。
